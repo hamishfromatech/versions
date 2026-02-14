@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30045/A-Coder-linux-ppc64le-1.99.30045.tar.gz",
-  "name": "1.99.30045",
-  "version": "10c8899a6becc9eb9f9803d980705a3f4831f02e",
-  "productVersion": "1.99.30045.0",
-  "hash": "fd00bbba695d3b7c1c1522ae1e26c74865993229",
-  "timestamp": "1770988444970",
-  "sha256hash": "ff401933251cbe13857a2b81f7ef8088335a202e8c67b993ad607886ea4e09ba"
+  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30046/A-Coder-linux-ppc64le-1.99.30046.tar.gz",
+  "name": "1.99.30046",
+  "version": "a73eb1a7d93e71306ab31a89baa43bc8a4fed9dc",
+  "productVersion": "1.99.30046.0",
+  "hash": "60277b856fde55069428f74487cdba7e0d0014ed",
+  "timestamp": "1771064755458",
+  "sha256hash": "4a0d9033c51378b457f903f793fa47de3450308b8d0af399657ba838696daad5"
 }
