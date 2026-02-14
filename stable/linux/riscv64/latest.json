@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30045/A-Coder-linux-riscv64-1.99.30045.tar.gz",
-  "name": "1.99.30045",
-  "version": "10c8899a6becc9eb9f9803d980705a3f4831f02e",
-  "productVersion": "1.99.30045.0",
-  "hash": "d48802ba04df1753b166d1818fb97f62e3c61698",
-  "timestamp": "1770988428527",
-  "sha256hash": "d1741ba9e3f27d3c6b898f089c8d108e96810afc00b354486c4b96154859515c"
+  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30046/A-Coder-linux-riscv64-1.99.30046.tar.gz",
+  "name": "1.99.30046",
+  "version": "a73eb1a7d93e71306ab31a89baa43bc8a4fed9dc",
+  "productVersion": "1.99.30046.0",
+  "hash": "4154daf283e093eb4c15a10c3ca717411e0a0d30",
+  "timestamp": "1771064731284",
+  "sha256hash": "b09e71f7a6bb4e6184f1d536bd3d809e53e55b834e1e928fde3fc7ce811c4bad"
 }
