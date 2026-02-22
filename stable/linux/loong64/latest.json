@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30048/A-Coder-linux-loong64-1.99.30048.tar.gz",
-  "name": "1.99.30048",
-  "version": "81ab6f753b073af86d62aa226770f6294f5df158",
-  "productVersion": "1.99.30048.0",
-  "hash": "2a3a49c97c995417335ac578ee6b631e509649ac",
-  "timestamp": "1771664038924",
-  "sha256hash": "ae565d513a23967118daa16f9996546530ead19fbb29ebcb3fab233dac144c6d"
+  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30049/A-Coder-linux-loong64-1.99.30049.tar.gz",
+  "name": "1.99.30049",
+  "version": "9ef61539c24acc07c703529f7fe85cf5fea4ae98",
+  "productVersion": "1.99.30049.0",
+  "hash": "2e3050cf97579003ce4555c4892089cdfbea2908",
+  "timestamp": "1771766912582",
+  "sha256hash": "5d794739dfdfdc504eb1355cf04e1cab761baa90a61fb4be6921c47de13dc5c5"
 }
