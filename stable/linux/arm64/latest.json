@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30056/A-Coder-linux-arm64-1.99.30056.tar.gz",
-  "name": "1.99.30056",
-  "version": "8c2362e15e68d63a57c17ecfc57af3dad58080cf",
-  "productVersion": "1.99.30056.0",
-  "hash": "8e408b74871da178ee40a12979ecec6381c59da0",
-  "timestamp": "1773497756109",
-  "sha256hash": "4046569b68f7ae9e26efee637b7c166faa53fec4c84f3bfaf35c8eae8ab198a8"
+  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30057/A-Coder-linux-arm64-1.99.30057.tar.gz",
+  "name": "1.99.30057",
+  "version": "ac781be2e4c4bd64cc53ea3b6cc698a8d14707c9",
+  "productVersion": "1.99.30057.0",
+  "hash": "7fc2b0fa6261ec283fde56d86c28aacb7e7360fa",
+  "timestamp": "1773564013614",
+  "sha256hash": "62574168c4a138c28512ee8131e5024e21cb5a71ce5075b75530629181335b3c"
 }
