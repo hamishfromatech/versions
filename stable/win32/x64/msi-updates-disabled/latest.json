@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30081/A-Coder-x64-updates-disabled-1.99.30081.msi",
-  "name": "1.99.30081",
-  "version": "04ceed8b3e700a04323b3c78db5c42871e455704",
-  "productVersion": "1.99.30081.0",
-  "hash": "8c5f3af650a5c4f5fb38f2cf4842b39df41ac028",
-  "timestamp": "1782339564502",
-  "sha256hash": "add5b0ed668ab740053f03b4a46b9aff8321bd2f670655eb0b60eee6964c8f7d"
+  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30082/A-Coder-x64-updates-disabled-1.99.30082.msi",
+  "name": "1.99.30082",
+  "version": "fe075fc0a5b35edde48a81767f5e8b2bab9d04eb",
+  "productVersion": "1.99.30082.0",
+  "hash": "8f92fb22b45022cd9240b725febc8ec04f087450",
+  "timestamp": "1782365481403",
+  "sha256hash": "c9f97db4440e86864072266a51e1b799ef2399b6ddab3946b842c096927be2e8"
 }
