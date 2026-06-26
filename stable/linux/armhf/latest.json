@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30081/A-Coder-linux-armhf-1.99.30081.tar.gz",
-  "name": "1.99.30081",
-  "version": "04ceed8b3e700a04323b3c78db5c42871e455704",
-  "productVersion": "1.99.30081.0",
-  "hash": "33e25a34f73109878811afbf71dae6c94f26b52c",
-  "timestamp": "1782335805826",
-  "sha256hash": "a3044a24533f3fcee762442b9da156325082b0a07392bad2ae4f37f396cf1dfd"
+  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30083/A-Coder-linux-armhf-1.99.30083.tar.gz",
+  "name": "1.99.30083",
+  "version": "976a9de1dd78607c52f6ae4256e97d78bb9b8f34",
+  "productVersion": "1.99.30083.0",
+  "hash": "088a76c9e748e2cc02e14d7a2514cbe92b8524d3",
+  "timestamp": "1782479291485",
+  "sha256hash": "8f488a366ddee701a0cb90ed21057304499d355029c5975f0bf97bcfe78a3159"
 }
