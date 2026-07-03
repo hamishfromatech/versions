@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30088/A-CoderSetup-arm64-1.99.30088.exe",
-  "name": "1.99.30088",
-  "version": "1ac1c492ed9117cdbd35190ca2ac6bd0e0674c37",
-  "productVersion": "1.99.30088.0",
-  "hash": "30521dad5ca76888fedf27e69f7dd0e1cdb4ef37",
-  "timestamp": "1782624339163",
-  "sha256hash": "ae599ea71e2576556bfdfbff18b7fd69077a9906c810a7e648ade8ac88bb9db9"
+  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30090/A-CoderSetup-arm64-1.99.30090.exe",
+  "name": "1.99.30090",
+  "version": "59312e099c4bbf25974c1397fc5b446bedbb7462",
+  "productVersion": "1.99.30090.0",
+  "hash": "e054502117e41c19a366f0bb37b3e0bc23506416",
+  "timestamp": "1783075826287",
+  "sha256hash": "b67005d5ef33b19747a509552f525934c8b187b63a5a7666487f51de2f739f22"
 }
