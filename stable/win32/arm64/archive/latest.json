@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30096/A-Coder-win32-arm64-1.99.30096.zip",
-  "name": "1.99.30096",
-  "version": "769c6e8fdb81647bf7ea0e6011c6adba7c506f60",
-  "productVersion": "1.99.30096.0",
-  "hash": "cc8ed191e11c38913abd00fc21a14b719643e0a2",
-  "timestamp": "1787834748783",
-  "sha256hash": "8194f694a1eae52bd8d9710c3875806184a6a3d6dc8e7829c6063681fe2a3077"
+  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30097/A-Coder-win32-arm64-1.99.30097.zip",
+  "name": "1.99.30097",
+  "version": "053c86603dfaec1729b0ec10302038a618fd0c57",
+  "productVersion": "1.99.30097.0",
+  "hash": "d4d11815d2adc20bea7fd72c5c5a52206d2cf00b",
+  "timestamp": "1787882427890",
+  "sha256hash": "f5273a49ad05004bd07368a83ffd08809936410859061653e0f6b0e8c26a2e53"
 }
