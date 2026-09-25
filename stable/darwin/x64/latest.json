@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30099/A-Coder-darwin-x64-1.99.30099.zip",
-  "name": "1.99.30099",
-  "version": "15242c446048b150a255bd1fec4add9c412e784a",
-  "productVersion": "1.99.30099.0",
-  "hash": "8b8970dd63009cdc6935225f5440283fc14b0860",
-  "timestamp": "1789200365091",
-  "sha256hash": "a4a13996442d56d65051c1a8ae222957465298a2d0876119412bc159b2a51e25"
+  "url": "https://github.com/hamishfromatech/A-Coder/releases/download/1.99.30100/A-Coder-darwin-x64-1.99.30100.zip",
+  "name": "1.99.30100",
+  "version": "b40aff472b698037b6905e949958b1110372fba6",
+  "productVersion": "1.99.30100.0",
+  "hash": "d65e4f87c9e8214759dc97c0a0c674af272eeef7",
+  "timestamp": "1790339168135",
+  "sha256hash": "cc929f7cefcf0b50c1c50b23eab8077847613190317bcd1a41d348d50028a385"
 }
